@@ -26,11 +26,16 @@
 
 import socket
 
-host = "" # IP address here
-port = 0000 # Port here
+host = "142.93.118.186" # IP address here
+port = 80 # Port here
 wordlist = "/usr/share/wordlists/rockyou.txt" # Point to wordlist file
 
 def brute_force():
+    s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+    s.connect((host, port))
+    data = s.recv(1024)     
+    print(data) 
+    s.send("something to send\n")
     """
         Sockets: https://docs.python.org/2/library/socket.html
         How to use the socket s:
