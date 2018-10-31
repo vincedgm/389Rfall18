@@ -1,28 +1,28 @@
 Writeup 7 - Forensics I
 ======
 
-Name: *PUT YOUR NAME HERE*
-Section: *PUT YOUR SECTION NUMBER HERE*
+Name: Vince De Guzman
+Section: 0201
 
 I pledge on my honor that I have not given or received any unauthorized assistance on this assignment or examination.
 
-Digital acknowledgement of honor pledge: *PUT YOUR NAME HERE*
+Digital acknowledgement of honor pledge: Vince De Guzman
 
 ## Assignment 7 writeup
 
 ### Part 1 (40 pts)
 
-1. 
+1. JPEG
 
-2. 
+2. 835 N Michigan Ave, Chicago, IL 60611, USA -> Water Tower Place
 
-3. 
+3. 2018:08:22 11:33:24
 
-4. 
+4. iPhone 8
 
-5. 
+5. 539.5 m above sea level
 
-6.
+6. CMSC389R-{look_I_f0und_a_str1ng}
 
 ### Part 2 (55 pts)
 
